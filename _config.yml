@@ -4,7 +4,8 @@ description: >-
 baseurl: ""
 url: "https://mesith-rathnayake.github.io"
 
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: amitmerchant1990/reverie
+
 
 github_username: mesith-rathnayake
 linkedin_username: Mesith Rathnayake
