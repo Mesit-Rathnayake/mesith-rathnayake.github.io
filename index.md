@@ -34,13 +34,13 @@ Built an IoT-based smart switch system using ESP8266 and Firebase for real-time 
 ## 🎓 Education
 
 **B.Sc. in Computer Engineering**  
-_University of [Your University]_  
-Expected Graduation: [Year]
+_University of Ruhuna_  
+Expected Graduation: 2027
 
 ---
 
 ## 📫 Contact
 
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/mesith-rathnayake)
-- 💻 [GitHub](https://github.com/mesithr)
+- 📧 [your.email@example.com](mailto:mesithrathnayake0930@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/Mesith Rathnayake)
+- 💻 [GitHub](https://github.com/mesith-rathnayake)
