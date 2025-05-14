@@ -1,15 +1,17 @@
 title: Mesith Rathnayake
 description: >-
-  Computer Engineering undergraduate | Embedded systems, Web development & AI enthusiast.
+  Computer Engineering undergraduate | Embedded Systems, Web Development & AI Enthusiast.
 baseurl: ""
 url: "https://mesith-rathnayake.github.io"
 
 remote_theme: amitmerchant1990/reverie
 
+author:
+  name: Mesith Rathnayake
+  email: mesithrathnayake0930@gmail.com
 
 github_username: mesith-rathnayake
-linkedin_username: Mesith Rathnayake
-email: mesithrathnayake0930@gmail.com
+linkedin_username: mesith-rathnayake  # use lowercase slug, not full name
 
 plugins:
   - jekyll-feed
