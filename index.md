@@ -42,5 +42,5 @@ Expected Graduation: 2027
 ## 📫 Contact
 
 - 📧 [your.email@example.com](mailto:mesithrathnayake0930@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/Mesith Rathnayake)
+- 🔗 [LinkedIn](https://linkedin.com/in/Mesith_Rathnayake)
 - 💻 [GitHub](https://github.com/mesith-rathnayake)
