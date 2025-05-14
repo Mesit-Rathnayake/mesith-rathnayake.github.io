@@ -5,7 +5,7 @@ title: Mesith Rathnayake
 
 # 👨‍💻 Mesith Rathnayake  
 **Computer Engineering Undergraduate**  
-Driven by curiosity and committed to building high-performance, real-world systems.
+Curious. Focused. Passionate about building real-world systems at the intersection of software and hardware.
 
 ---
 
@@ -13,21 +13,21 @@ Driven by curiosity and committed to building high-performance, real-world syste
 
 - **Languages:** C, C++, Python, JavaScript, Verilog
 - **Web Development:** HTML, CSS, React.js, Node.js, Express
-- **Systems & Tools:** Git, Docker, Linux, Figma
-- **Hardware:** Microcontrollers (Arduino, STM32), FPGA (Xilinx)
+- **Tools & Systems:** Git, Docker, Linux, Figma
+- **Hardware:** STM32, Arduino, ESP32, Xilinx FPGA
 
 ---
 
-## 📁 Featured Projects
+## 🚀 Featured Projects
 
-### ⚙️ Real-Time Object Detection on Edge Devices
-Designed a real-time image classification system using TensorFlow Lite and Raspberry Pi.
+### ⚙️ Real-Time Object Detection (Edge AI)
+Built an edge AI system using TensorFlow Lite and Raspberry Pi for live object classification.
 
-### 🖥️ Personal Portfolio
-Responsive portfolio hosted via GitHub Pages using Jekyll + custom styling.
+### 🌐 Responsive Developer Portfolio
+Designed and deployed a personal site (this one!) using Jekyll and GitHub Pages, with custom theming.
 
-### 📡 IoT Home Automation
-Built an IoT-based smart switch system using ESP8266 and Firebase for real-time control.
+### 📡 IoT Smart Home Switch
+Developed a Wi-Fi–based smart switch system with ESP8266 and Firebase for mobile-controlled home automation.
 
 ---
 
@@ -35,12 +35,12 @@ Built an IoT-based smart switch system using ESP8266 and Firebase for real-time 
 
 **B.Sc. in Computer Engineering**  
 _University of Ruhuna_  
-Expected Graduation: 2027
+📅 Expected Graduation: 2027
 
 ---
 
 ## 📫 Contact
 
 - 📧 [mesithrathnayake0930@gmail.com](mailto:mesithrathnayake0930@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/Mesith_Rathnayake)
+- 💼 [LinkedIn](https://linkedin.com/in/mesith-rathnayake)
 - 💻 [GitHub](https://github.com/mesith-rathnayake)
