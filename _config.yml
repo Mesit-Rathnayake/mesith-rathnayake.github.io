@@ -1,2 +1,15 @@
 title: Mesith Rathnayake
-theme: jekyll-theme-minimal
+description: >-
+  Computer Engineering undergraduate | Embedded systems, Web development & AI enthusiast.
+baseurl: ""
+url: "https://mesith-rathnayake.github.io"
+
+theme: minima
+
+github_username: mesith-rathnayake
+linkedin_username: Mesith Rathnayake
+email: mesithrathnayake0930@gmail.com
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
